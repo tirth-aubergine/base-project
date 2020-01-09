@@ -1,0 +1,4 @@
+[submodule "submodule-project"]
+	path = submodule-project
+	url = https://github.com/tirth-aubergine/submodule-project.git
+	branch = master
